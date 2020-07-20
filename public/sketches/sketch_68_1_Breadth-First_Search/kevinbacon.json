@@ -1,0 +1,97 @@
+{
+    "movies": [{
+            "title": "Diner",
+            "cast": [
+                "Steve \nGuttenberg",
+                "Daniel \nStern",
+                "Mickey \nRourke",
+                "Kevin \nBacon",
+                "Tim \nDaly",
+                "Ellen \nBarkin",
+                "Paul \nReiser",
+                "Kathryn \nDowling",
+                "Michael \nTucker",
+                "Jessica \nJames",
+                "Colette \nBlonigan",
+                "Kelle \nKipp",
+                "Clement \nFowler",
+                "Claudia \nCron"
+            ]
+        },
+        {
+            "title": "Footloose",
+            "cast": [
+                "Kevin \nBacon",
+                "Lori \nSinger",
+                "Dianne \nWiest",
+                "John \nLithgow",
+                "Sarah \nJessica Parker",
+                "Chris \nPenn",
+                "Frances \nLee McCain",
+                "Jim \nYoungs",
+                "John \nLaughlin",
+                "Lynne \nMarta",
+                "Douglas \nDirkson"
+            ]
+        },
+        {
+            "title": "Flatliners",
+            "cast": [
+                "Kiefer \nSutherland",
+                "Julia \nRoberts",
+                "Kevin \nBacon",
+                "William \nBaldwin",
+                "Oliver \nPlatt",
+                "Kimberly \nScott",
+                "Joshua \nRudoy",
+                "Benjamin \nMouton",
+                "Hope \nDavis",
+                "Patricia \nBelcher",
+                "Beth \nGrant"
+            ]
+        },
+        {
+            "title": "Eat \nPray \nLove",
+            "cast": [
+                "Julia \nRoberts",
+                "Javier \nBardem",
+                "Billy \nCrudup",
+                "Richard \nJenkins",
+                "Viola \nDavis",
+                "James \nFranco",
+                "Sophie \nThompson",
+                "Mike \nO'Malley",
+                "Christine \nHakim",
+                "Arlene \nTur",
+                "Hadi \nSubiyanto",
+                "Gita \nReddy",
+                "Tuva \nNovotny",
+                "Luca \nArgentero",
+                "Rushita \nSingh"
+            ]
+        },
+        {
+            "title": "Spotlight",
+            "cast": [
+                "Mark \nRuffalo",
+                "Michael \nKeaton",
+                "Rachel \nMcAdams",
+                "Liev \nSchreiber",
+                "John \nSlattery",
+                "Brian \nd'Arcy \nJames",
+                "Stanley \nTucci",
+                "Gene \nAmoroso",
+                "Jamey \nSheridan",
+                "Billy \nCrudup",
+                "Maureen \nKeiller",
+                "Richard \nJenkins",
+                "Paul \nGuilfoyle",
+                "Len \nCariou",
+                "Neal \nHuff",
+                "Michael \nCyril \nCreighton",
+                "Laurie \nHeineman",
+                "Tim \nProgosh"
+            ]
+        }
+    ]
+}
